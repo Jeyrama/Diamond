@@ -41,3 +41,5 @@ function diamond (n) {
   }
   return str
 }
+
+// or
