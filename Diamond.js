@@ -26,3 +26,6 @@ Examples:
       *
     ...that is:" *\n ***\n*****\n ***\n  *\n"
 */
+
+
+// Solution
